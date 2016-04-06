@@ -24,14 +24,14 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="New Text"
-            android:id="@+id/textView2"
+            android:id="@+id/g1"
             android:textSize="70dp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="New Text"
-            android:id="@+id/textView3"
+            android:id="@+id/g2"
             android:textSize="30dp" />
     </LinearLayout>
 </LinearLayout>
